@@ -1,0 +1,19 @@
+.header-image {
+    height: 30vh;
+    width: 100%;
+    background-color: red;
+    background-image: url('./images/header.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.header-image .podmiot-nazwa {
+    filter: drop-shadow(4px 4px 5px black);
+    cursor: default;
+}
+.page {
+    background-color: rgb(29, 29, 29);
+    min-height: 70vh;
+}
+.wyszukiwarka {
+    background-color: rgba(255, 255, 255, 0.5);
+}

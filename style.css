@@ -1,10 +1,17 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+h1, h2, h3, h4, h5 {
+    font-family: 'Roboto', sans-serif;
+}
 .header-image {
-    height: 30vh;
+    height: 35vh;
     width: 100%;
     background-color: red;
     background-image: url('./images/header.jpg');
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .header-image .podmiot-nazwa {
     filter: drop-shadow(4px 4px 5px black);
@@ -12,8 +19,9 @@
 }
 .page {
     background-color: rgb(29, 29, 29);
-    min-height: 70vh;
+    min-height: 65vh;
 }
 .wyszukiwarka {
+    margin: -4% 0 10vh 0;
     background-color: rgba(255, 255, 255, 0.5);
 }

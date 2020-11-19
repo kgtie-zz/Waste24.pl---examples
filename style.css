@@ -22,6 +22,6 @@ h1, h2, h3, h4, h5 {
     min-height: 65vh;
 }
 .wyszukiwarka {
-    margin: -4% 0 10vh 0;
+    margin: -3% 0 10vh 0; /* Nie oceniaj tego zapisu */
     background-color: rgba(255, 255, 255, 0.5);
 }

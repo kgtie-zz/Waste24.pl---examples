@@ -8,7 +8,6 @@ body {
     background-color: rgb(29, 29, 29);
 }
 .header-image {
-    height: 35vh;
     width: 100%;
     background-color: red;
     background-image: url('./images/header.jpg');
@@ -22,7 +21,6 @@ body {
 }
 .page {
     background-color: rgb(29, 29, 29);
-    min-height: 65vh;
 }
 .wyszukiwarka {
     margin: -3% 0 10vh 0; /* Nie oceniaj tego zapisu */
